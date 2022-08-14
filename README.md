@@ -1,1 +1,1 @@
-# Macroeconomics-Dynamic-Modelling
+# Macroeconomics and Dynamic Modelling
