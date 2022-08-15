@@ -4,5 +4,5 @@ This repository includes projects and assignments completed in part of the curri
 
 ## Project Descriptions
 
-#### Macroeconomic Trends
+### Macroeconomic Trends
 Analysis of the United States' business cycle, including GDP, consumption, investments, government expenditures, net exports, unemployment rate and real consumer durables.
