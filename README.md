@@ -6,3 +6,8 @@ This repository includes projects and assignments completed in part of the curri
 
 ### Macroeconomic Trends
 Analysis of the United States' business cycle, including GDP, consumption, investments, government expenditures, net exports, unemployment rate and real consumer durables.
+
+### Markov Matricies and Asset Prices
+An anlysis of GDP cycle data through the lens of the Markovian process. The Markov matrix is then used to price assets and determine interest rates.
+
+###
