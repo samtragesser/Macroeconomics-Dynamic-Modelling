@@ -10,5 +10,5 @@ Analysis of the United States' business cycle, including GDP, consumption, inves
 ### Markov Matricies and Asset Prices
 An analysis of GDP cycle data through the lens of the Markovian process. The Markov matrix is then used to price assets and determine interest rates.
 
-###Economic Effects of a Year-long Lockdown
+### Economic Effects of a Year-long Lockdown
 Analysis of the impact of the COVID lockdown on US economy through the lens of the Markovian process. The program finds the yield curves, asset prices, and state probabilities given both a one and four period lockdown.
